@@ -2,7 +2,7 @@
 
 # Asteroids Game
                                                
-#### Asteroids game made for [boot.dev](https://boot.dev).
+#### Asteroids game made for [boot.dev](https://boot.dev)
 
 </div>
 
