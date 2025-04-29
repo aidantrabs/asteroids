@@ -1,5 +1,6 @@
+from src.constants import SHOT_RADIUS
+
 from circleshape import *
-from constants import SHOT_RADIUS
 
 class Shot(CircleShape):
     def __init__(self, x, y):
