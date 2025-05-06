@@ -1,12 +1,10 @@
 import pygame
 import sys
-
 from src.constants import *
-
-from objects.player import Player
-from objects.asteroid import Asteroid
-from objects.asteroidfield import AsteroidField
-from objects.shot import Shot
+from src.objects.player import Player
+from src.objects.asteroid import Asteroid
+from src.objects.asteroidfield import AsteroidField
+from src.objects.shot import Shot
 
 def main():
     print("Starting Asteroids!")
