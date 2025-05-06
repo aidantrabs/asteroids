@@ -41,5 +41,5 @@ $ pip install -r requirements.txt
 
 > Run game
 ```sh
-$ python3 main.py
+$ python3 -m src.main
 ```
